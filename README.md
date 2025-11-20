@@ -43,7 +43,6 @@ This portfolio is designed to provide a clear and structured representation of m
 
 To view or edit the project locally:
 
-```bash
 git clone https://github.com/your-username/your-repo-name.git
 
 ## ✉️ Contact
