@@ -48,6 +48,6 @@ git clone https://github.com/Adarsh-patil-07/Adarsh-Portfolio.git
 ## ✉️ Contact
 Feel free to connect with me for opportunities, collaborations, or just to chat!
 
-* **LinkedIn**: [Your LinkedIn Profile URL]
-* **Email**: [Your Professional Email Address]
-* **GitHub**: [Your GitHub Profile URL]
+* **LinkedIn**: https://www.linkedin.com/in/adarsh-patil0721/
+* **Email**: adaepublic01@gmail.com
+* **GitHub**: https://github.com/Adarsh-patil-07
