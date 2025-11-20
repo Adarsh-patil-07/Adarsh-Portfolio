@@ -43,7 +43,7 @@ This portfolio is designed to provide a clear and structured representation of m
 
 To view or edit the project locally:
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Adarsh-patil-07/Adarsh-Portfolio.git
 
 ## ✉️ Contact
 Feel free to connect with me for opportunities, collaborations, or just to chat!
